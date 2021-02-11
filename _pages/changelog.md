@@ -35,22 +35,22 @@ ________
 # **Version 1.0**
 ToDoBot is the ultimate task app. Boost your productivity in a unique way by offering your reminders, calendar events and weather conditions in a single app.
 
-Reminders + Calendar + Time
+## Reminders + Calendar + Time
 With ToDoBot you can organize yourself better thanks to its neat interface and the information it displays:
 
-Reminders:
+#### Reminders:
 Boost your reminders by adding extra options, such as the possibility of adding more than one link, maintaining their priority order, or including them in a section within the list to which they belong.
 
-Calendars:
+#### Calendars:
 In ToDoBot you can view the events of your calendars so that you can properly plan the tasks that you have pending on a specific day. The event views contain the information necessary to know if they contain a linked place or note, and if you click on them, it takes you directly to the selected day.
 
-Weather:
+#### Weather:
 ToDoBot is the only task application that offers you the weather forecast. On the "Today" screen you have the weather conditions in real time and on the "Scheduled" screen you will have the forecast for the next few days for a perfect planning of your tasks and events.
 
-Apple Watch:
+#### Apple Watch:
 With the ToDoBot Apple Watch app you will have a quick overview of your tasks for the current day, you can also add new tasks and complete them.
 
-Shortcuts:
+#### Shortcuts:
 ToDoBot comes with a multitude of Siri shortcuts so you can interact with the app in a much more productive way.
 
 <!-- <br>
