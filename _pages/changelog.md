@@ -35,7 +35,7 @@ ________
 # **Version 1.0**
 ToDoBot is the ultimate task app. Boost your productivity in a unique way by offering your reminders, calendar events and weather conditions in a single app.
 
-## Reminders + Calendar + Time
+### Reminders + Calendar + Time
 With ToDoBot you can organize yourself better thanks to its neat interface and the information it displays:
 
 #### Reminders:
