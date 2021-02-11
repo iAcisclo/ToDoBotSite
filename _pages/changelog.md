@@ -4,13 +4,9 @@ title: What's New
 include_in_header: true
 ---
 
-# Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
-
-<br>
 
 ### `Latest`
-# **Version 2.0**
+<!-- # **Version 2.0**
 This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
 
 #### What's New
@@ -34,12 +30,30 @@ Abnormal and formidable against much the before well improper more spent far her
 
 ________
 <br>
-
+ -->
 ### `Initial Release`
 # **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+ToDoBot is the ultimate task app. Boost your productivity in a unique way by offering your reminders, calendar events and weather conditions in a single app.
 
-<br>
+Reminders + Calendar + Time
+With ToDoBot you can organize yourself better thanks to its neat interface and the information it displays:
+
+Reminders:
+Boost your reminders by adding extra options, such as the possibility of adding more than one link, maintaining their priority order, or including them in a section within the list to which they belong.
+
+Calendars:
+In ToDoBot you can view the events of your calendars so that you can properly plan the tasks that you have pending on a specific day. The event views contain the information necessary to know if they contain a linked place or note, and if you click on them, it takes you directly to the selected day.
+
+Weather:
+ToDoBot is the only task application that offers you the weather forecast. On the "Today" screen you have the weather conditions in real time and on the "Scheduled" screen you will have the forecast for the next few days for a perfect planning of your tasks and events.
+
+Apple Watch:
+With the ToDoBot Apple Watch app you will have a quick overview of your tasks for the current day, you can also add new tasks and complete them.
+
+Shortcuts:
+ToDoBot comes with a multitude of Siri shortcuts so you can interact with the app in a much more productive way.
+
+<!-- <br>
 
 ## **Version 1.1**
 Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
@@ -61,5 +75,5 @@ That wow robin one and gosh audibly darn that variously less across softly awake
 #### Bug Fixes
 - Improved user sign up experience.
 - Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
-
+ -->
 <br>
