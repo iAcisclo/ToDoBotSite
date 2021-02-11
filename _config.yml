@@ -34,16 +34,16 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Reminders
+    description                           : Boost your reminders by adding extra options, such as the possibility of adding more than one link, maintaining their priority order, or including them in a section within the list to which they belong.
     fontawesome_icon_name                 : list
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Calendar
+    description                           : In ToDoBot you can view the events of your calendars so that you can properly assess the tasks that you have pending on a specific day. The event views contain the information necessary to know if they contain a linked place or note, and if you click on them, it takes you directly to the specific day.
     fontawesome_icon_name                 : calendar-alt
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Weather
+    description                           : ToDoBot is the only task application that offers you the weather forecast. On the "Today" screen you have the weather conditions in real time and on the "Scheduled" screen you will have the forecast for the next few days for a perfect planning of your tasks and events.
     fontawesome_icon_name                 : cloud-sun
 
 
