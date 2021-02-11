@@ -112,5 +112,3 @@ To determine whether any of the third-party services it uses honor the “Do Not
 
 ### Changes to this privacy policy
 The Owner reserves the right to make changes to this privacy policy at any time by notifying its Users on this page and possibly within this Application and/or - as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. 
-
-#Trabajo
