@@ -11,9 +11,8 @@ include_in_header: true
 #### What's New
 
 Improvements:
-
-• New calendar widget!
-• Improvements in the calendar filtering screen. 
+* New calendar widget!
+* Improvements in the calendar filtering screen. 
 
 <br>
 ________
