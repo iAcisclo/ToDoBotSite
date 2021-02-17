@@ -9,7 +9,9 @@ include_in_header: true
 # **Version 1.1**
 
 #### What's New
+
 Improvements:
+
 • New calendar widget!
 • Improvements in the calendar filtering screen. 
 
