@@ -4,8 +4,21 @@ title: What's New
 include_in_header: true
 ---
 
-
 ### `Latest`
+# **Version 1.2**
+
+#### What's New
+
+Improvements:
+* New weather forecast screen! Click on the temperature to see the details of the weather forecast.
+* New reminder widget, now in compact size.
+* All widgets have been improved so you can add events with just one touch.
+* Improved automatic syncing with reminders.
+
+<br>
+________
+<br>
+
 # **Version 1.1**
 
 #### What's New
