@@ -5,6 +5,18 @@ include_in_header: true
 ---
 
 ### `Latest`
+# **Version 1.3**
+
+#### What's New
+
+Improvements:
+* Now you can see the completions of the day on the Apple Watch.
+* General improvements.
+
+<br>
+________
+<br>
+
 # **Version 1.2**
 
 #### What's New
